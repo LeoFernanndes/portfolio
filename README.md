@@ -4,7 +4,7 @@
 Comparisson between simple mean, linear regression, neural network, random search on random forest to fit better params and kmeans on random forest.
 
 
-# Relevant Topics Related to ML and Data Science
+## Relevant Topics Related to ML and Data Science
 
 ### Data Science Carreer
 https://github.com/firmai/data-science-career
