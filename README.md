@@ -29,3 +29,12 @@ http://www.databaseanswers.org/data_models/index.htm
 
 ### 26 Data Science Interview Questions
 https://medium.com/analytics-vidhya/test-your-skills-26-data-science-interview-questions-answers-69cb2b223e57
+
+### How to Become a Data Engineer
+https://github.com/adilkhash/Data-Engineering-HowTo
+
+### Data Engineering Roadmap
+https://github.com/boringPpl/data-engineer-roadmap
+
+### Awesome Data Engineering
+https://github.com/igorbarinov/awesome-data-engineering
